@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Использование
 1. Конвертация MP3 в PMX:
 ```python
-python mp3_to_pmx.py input.mp3 output.pmx
+python mp3_to_pmx.py
 ```
 2. Запуск плеера:
 ```python
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ## Usage
 1. Convert MP3 to PMX:
 ```python
-python mp3_to_pmx.py input.mp3 output.pmx
+python mp3_to_pmx.py
 ```
 2. Run the player:
 ```python
